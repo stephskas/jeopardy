@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http.//stephskas.github.io/jeopardy/static/css/main.99ab4def.chunk.css",
+    "main.js": "/http.//stephskas.github.io/jeopardy/static/js/main.a04820e9.chunk.js",
+    "main.js.map": "/http.//stephskas.github.io/jeopardy/static/js/main.a04820e9.chunk.js.map",
+    "runtime-main.js": "/http.//stephskas.github.io/jeopardy/static/js/runtime-main.f296f226.js",
+    "runtime-main.js.map": "/http.//stephskas.github.io/jeopardy/static/js/runtime-main.f296f226.js.map",
+    "static/js/2.5704f74a.chunk.js": "/http.//stephskas.github.io/jeopardy/static/js/2.5704f74a.chunk.js",
+    "static/js/2.5704f74a.chunk.js.map": "/http.//stephskas.github.io/jeopardy/static/js/2.5704f74a.chunk.js.map",
+    "static/js/3.e22289d5.chunk.js": "/http.//stephskas.github.io/jeopardy/static/js/3.e22289d5.chunk.js",
+    "static/js/3.e22289d5.chunk.js.map": "/http.//stephskas.github.io/jeopardy/static/js/3.e22289d5.chunk.js.map",
+    "index.html": "/http.//stephskas.github.io/jeopardy/index.html",
+    "static/css/main.99ab4def.chunk.css.map": "/http.//stephskas.github.io/jeopardy/static/css/main.99ab4def.chunk.css.map",
+    "static/js/2.5704f74a.chunk.js.LICENSE.txt": "/http.//stephskas.github.io/jeopardy/static/js/2.5704f74a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f296f226.js",
+    "static/js/2.5704f74a.chunk.js",
+    "static/css/main.99ab4def.chunk.css",
+    "static/js/main.a04820e9.chunk.js"
+  ]
+}
